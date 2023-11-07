@@ -1,3 +1,3 @@
 lst ='fad 1 , sfgs'
 print(lst.split())
-print(1)
+print((1,2))
